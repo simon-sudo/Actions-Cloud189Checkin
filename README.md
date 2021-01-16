@@ -1,4 +1,7 @@
 # Cloud189Checkin
+
+![Cloud189Checkin](https://github.com/simon-sudo/Actions-Cloud189Checkin/workflows/Cloud189Checkin/badge.svg)
+
 天翼云盘每日签到一次，抽奖2次  
 ##### 直接调用
 1.下载或通过git克隆项目 
